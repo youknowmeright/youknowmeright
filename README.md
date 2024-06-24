@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youknowmeright
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ...c++ & OOP
+- 🌱 I’m currently learning ...c++ & OOP &python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
