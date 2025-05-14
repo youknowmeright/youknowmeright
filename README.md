@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning python 
+I'm currently learning JavaScript 
 
 
 # 💻 Tech Stack:
