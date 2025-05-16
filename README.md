@@ -8,7 +8,7 @@
 
 💫 About Me:
 - 🔭 I’m currently working on **Web Development Projects and E-Commerce UI**
-- 🌱 I’m currently learning **JavaScript, Data Structures, Tailwind CSS, PHP**
+- 🌱 I’m currently learning **JavaScript, Data Structures, Tailwind CSS**
 - 👯 I’m looking to collaborate on **open source projects**
 - 🧠 Exploring **System Design & Full Stack Tools**
 - ⚡ Fun fact: *I debug by talking to rubber ducks*
