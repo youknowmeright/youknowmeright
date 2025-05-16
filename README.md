@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+YouKnowMeRight;CS+Undergrad+%7C+Lazy+Coder;Web+Dev+%7C+JavaScript+%7C+Tailwind+CSS+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+YouKnowMeRight;" />
 </p>
 
 ---
@@ -59,11 +59,9 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/youknowmeright/count.svg" />
   <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=youknowmeright&icon=0&color=12" />
-  </a>
+
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=youknowmeright&color=blue&style=flat-square" />
+
 </p>
 
 ---
