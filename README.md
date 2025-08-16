@@ -57,7 +57,8 @@
 
  🌐 Visitor Counter
 <p align="center">
-![](https://komarev.com/ghpvc/youknowmeright)
+![Profile Views](https://komarev.com/ghpvc/?username=youknowmeright)
+
   <br/>
 
   <br/>
