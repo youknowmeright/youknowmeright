@@ -57,7 +57,7 @@
 
  🌐 Visitor Counter
 <p align="center">
-![](https://komarev.com/ghpvc/?username=youknowmeright)
+![](https://komarev.com/ghpvc/youknowmeright)
   <br/>
 
   <br/>
