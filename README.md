@@ -57,7 +57,7 @@
 
  🌐 Visitor Counter
 <p align="center">
-  <img src="https://profile-counter.glitch.me/youknowmeright/count.svg" />
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
   <br/>
 
   <br/>
