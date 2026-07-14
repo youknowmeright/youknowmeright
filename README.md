@@ -66,8 +66,8 @@ Computer Science and Engineering student with a focus on web development and bui
 | **TutorsPoint** | A platform to search for and hire tutors based on subject, location, and availability | [tech stack] | [GitHub](https://github.com/youknowmeright/Tutors-Point-Client) |
 
 <p align="center">
-  <img src="./scholarship-management-dashboard.png" alt="Scholarship Management Dashboard" width="100%">
-  <img src="./scholarship-management-form.png" alt="Scholarship Application Form" width="80%">
+  <img src="./scholarship-management-dashboard.png" alt="Scholarship Management Dashboard" width="50% height=100%">
+  <img src="./scholarship-management-form.png" alt="Scholarship Application Form" width="50% height=100%">
   <br>
   <sub><b>Scholarship Management System</b> — dashboard (left) and application form (right)</sub>
 </p>
