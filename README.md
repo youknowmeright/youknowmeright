@@ -67,7 +67,7 @@ Computer Science and Engineering student with a focus on web development and bui
 
 <p align="center">
   <img src="./scholarship-management-dashboard.png" alt="Scholarship Management Dashboard" width="100%">
-  <img src="./scholarship-management-form.png" alt="Scholarship Application Form" width="100%">
+  <img src="./scholarship-management-form.png" alt="Scholarship Application Form" width="80%">
   <br>
   <sub><b>Scholarship Management System</b> — dashboard (left) and application form (right)</sub>
 </p>
