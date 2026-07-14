@@ -67,9 +67,10 @@ Computer Science and Engineering student with a focus on web development and bui
 |
 
 <p align="center">
-  <img src="./assets/scholarship-management-screenshot.png" alt="Scholarship Management System" width="600">
+  <img src="./assets/scholarship-management-dashboard.png" alt="Scholarship Management Dashboard" width="48%">
+  <img src="./assets/scholarship-management-form.png" alt="Scholarship Application Form" width="48%">
   <br>
-  <sub><b>Scholarship Management System</b> — application & approval dashboard</sub>
+  <sub><b>Scholarship Management System</b> — dashboard (left) and application form (right)</sub>
 </p>
 
 > No live/hosted links yet — each repository above includes full source code, setup instructions, and a detailed README. TutorsPoint doesn't yet have a screenshot; one will be added once the UI is finalized.
