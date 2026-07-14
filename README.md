@@ -1,101 +1,98 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+YouKnowMeRight;Web+Developer+%7C+CSE+Student" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:2563eb&height=180&section=header&text=YouKnowMeRight&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20CSE%20Student&descAlignY=60&descSize=18" />
+
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail@example.com-2563EB?style=flat-square&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Location-Your%20City%2C%20Country-2563EB?style=flat-square&logo=googlemaps&logoColor=white">
+<a href="https://www.linkedin.com/in/[your-linkedin]/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://[your-portfolio-site].com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://github.com/youknowmeright"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+
+</div>
+
+<br>
+
+## About Me
+
+Computer Science and Engineering student with a focus on web development and building responsive, user-facing applications. Comfortable across the stack — from structuring clean UI in HTML/CSS/Tailwind to handling logic in JavaScript, PHP, and C/C++. Interested in full-stack development, system design fundamentals, and writing maintainable, well-documented code.
+
+**Currently:**
+- Building an **e-commerce UI** with a focus on responsive, accessible design
+- Strengthening **data structures & algorithms** in C++
+- Learning **Tailwind CSS** and modern JavaScript patterns
+- Open to **internship / entry-level developer** opportunities and open-source collaboration
+
+<br>
+
+## Technical Skills
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
 </p>
 
-<h3 align="center">💻 [Your Designation — e.g. CSE Undergraduate | Web Developer]</h3>
-
-<p align="center">
-  📍 [Your City, Country] &nbsp;|&nbsp; ✉️ <a href="mailto:youremail@example.com">youremail@example.com</a>
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/[your-handle]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.facebook.com/[your-facebook]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://[your-portfolio-site].com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://discord.com/users/[your-discord-id]"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+**Database**
+<p>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
----
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### 🙋‍♂️ About Me
-
-আমি একজন Computer Science and Engineering এর শিক্ষার্থী, ওয়েব ডেভেলপমেন্ট এবং ই-কমার্স UI বানাতে ভালোবাসি। ক্লিন এবং রিইউজেবল কোড লিখতে পছন্দ করি এবং প্রতিনিয়ত নতুন টেকনোলজি এক্সপ্লোর করি।
-
-### 💫 Currently:
-- 🔭 I'm currently working on **Web Development Projects and E-Commerce UI**
-- 🌱 I'm currently learning **JavaScript, Data Structures, Tailwind CSS**
-- 👯 I'm looking to collaborate on **open source projects**
-- 🧠 Exploring **System Design & Full Stack Tools**
-- ⚡ Fun fact: *I debug by talking to rubber ducks*
-
-<br clear="right"/>
-
----
-
-### 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,mysql,cpp,c,git,github,vscode" />
+**Tools & Platforms**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white">
 </p>
 
----
+<br>
 
-### 📌 Featured Projects
+## Featured Projects
 
-| Project | Description | Live Link |
-|---|---|---|
-| 🛒 **E-Commerce UI** | Responsive e-commerce interface built with [tech stack] | [Live Demo](#) |
-| 🌐 **Portfolio Site** | Personal portfolio showcasing my projects and skills | [Live Demo](#) |
-| 🧮 **Simple Calculator** | A calculator app built with [tech stack] | [Live Demo](#) |
-
-<!-- Note: এই টেবিলটা শুধু visual overview এর জন্য। sir এর requirement অনুযায়ী GitHub এর
-     "Pin repositories" ফিচার দিয়ে প্রোফাইল পেজে আলাদাভাবেও কমপক্ষে ৩টা repo pin করতে হবে। -->
-
----
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=youknowmeright&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=youknowmeright&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=youknowmeright&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-### 🌐 Visitor Counter
+| Project | Description | Tech Stack | Repository |
+|---|---|---|---|
+| **Scholarship Management System** | A system to manage scholarship applications, eligibility, and approval workflow | [tech stack] | [GitHub](https://github.com/youknowmeright/Assaingment-12-Client) |
+| **TutorsPoint** | A platform to search for and hire tutors based on subject, location, and availability | [tech stack] | [GitHub](https://github.com/youknowmeright/Tutors-Point-Client) |
+|
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youknowmeright&style=for-the-badge&color=00F7FF" alt="Profile Views"/>
+  <img src="./assets/scholarship-management-screenshot.png" alt="Scholarship Management System" width="600">
+  <br>
+  <sub><b>Scholarship Management System</b> — application & approval dashboard</sub>
 </p>
 
----
+> No live/hosted links yet — each repository above includes full source code, setup instructions, and a detailed README. TutorsPoint doesn't yet have a screenshot; one will be added once the UI is finalized.
 
-### ✨ Quote of the Day
+<br>
 
-> "First, solve the problem. Then, write the code." – John Johnson
+## GitHub Stats
 
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=youknowmeright&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowmeright&layout=compact&theme=default&hide_border=true" />
+</p>
 
-### 📫 Connect with me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowmeright&theme=default&hide_border=true" />
+</p>
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 💬 Discord: [your-discord-tag]
-- 🌐 Portfolio: [your-portfolio-link]
-- 💼 LinkedIn: [your-linkedin-link]
+<br>
+
+## Contact
+
+I'm currently open to internship and entry-level developer roles. Feel free to reach out.
+
+- **Email:** [youremail@example.com]()
+- **LinkedIn:** [linkedin.com/in/your-linkedin]()
+- **Portfolio:** [your-portfolio-site.com]()
