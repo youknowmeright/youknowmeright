@@ -64,11 +64,10 @@ Computer Science and Engineering student with a focus on web development and bui
 |---|---|---|---|
 | **Scholarship Management System** | A system to manage scholarship applications, eligibility, and approval workflow | [tech stack] | [GitHub](https://github.com/youknowmeright/Assaingment-12-Client) |
 | **TutorsPoint** | A platform to search for and hire tutors based on subject, location, and availability | [tech stack] | [GitHub](https://github.com/youknowmeright/Tutors-Point-Client) |
-|
 
 <p align="center">
-  <img src="./assets/scholarship-management-dashboard.png" alt="Scholarship Management Dashboard" width="48%">
-  <img src="./assets/scholarship-management-form.png" alt="Scholarship Application Form" width="48%">
+  <img src="./scholarship-management-dashboard.png" alt="Scholarship Management Dashboard" width="48%">
+  <img src="./scholarship-management-form.png" alt="Scholarship Application Form" width="48%">
   <br>
   <sub><b>Scholarship Management System</b> — dashboard (left) and application form (right)</sub>
 </p>
@@ -94,6 +93,6 @@ Computer Science and Engineering student with a focus on web development and bui
 
 I'm currently open to internship and entry-level developer roles. Feel free to reach out.
 
-- **Email:** [youremail@example.com]()
-- **LinkedIn:** [linkedin.com/in/your-linkedin]()
-- **Portfolio:** [your-portfolio-site.com]()
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin/)
+- **Portfolio:** [your-portfolio-site.com](https://your-portfolio-site.com)
