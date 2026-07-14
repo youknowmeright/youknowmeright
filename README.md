@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:2563eb&height=180&section=header&text=YouKnowMeRight&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20CSE%20Student&descAlignY=60&descSize=18" />
 
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail@example.com-2563EB?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="mailto:"><img src="https://img.shields.io/badge/Email-youremail@example.com-2563EB?style=flat-square&logo=gmail&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Location-Your%20City%2C%20Country-2563EB?style=flat-square&logo=googlemaps&logoColor=white">
-<a href="https://www.linkedin.com/in/[your-linkedin]/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://[your-portfolio-site].com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
 <a href="https://github.com/youknowmeright"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 
@@ -93,6 +93,6 @@ Computer Science and Engineering student with a focus on web development and bui
 
 I'm currently open to internship and entry-level developer roles. Feel free to reach out.
 
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin/)
-- **Portfolio:** [your-portfolio-site.com](https://your-portfolio-site.com)
+- **Email:** (mailto:youremail@example.com)
+- **LinkedIn:** (https://www.linkedin.com/in/your-linkedin/)
+- **Portfolio:** ](https://your-portfolio-site.com)
