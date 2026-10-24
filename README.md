@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Rakinul Alam, Junior Full-Stack Developer (MERN stack), CSE at IIUC, Chittagong, Bangladesh" width="100%">
+  <img src="./header.svg" alt="Rakinul Alam, Junior Full-Stack Developer (MERN stack), CSE at IIUC, Chittagong, Bangladesh" width="100%">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ I'm a Computer Science and Engineering student at International Islamic Universi
 - Learning Tailwind CSS and modern JavaScript patterns
 
 <p align="center">
-  <img src="./assets/terminal-card.svg" alt="Terminal-style profile card: role, education, languages, MERN stack, tools, current focus, projects and contact" width="100%">
+  <img src="./terminal-card.svg" alt="Terminal-style profile card: role, education, languages, MERN stack, tools, current focus, projects and contact" width="100%">
 </p>
 
 ## Tech Stack
