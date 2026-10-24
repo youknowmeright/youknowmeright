@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="./header.svg" alt="Rakinul Alam, Junior Full-Stack Developer (MERN stack), CSE at IIUC, Chittagong, Bangladesh" width="100%">
 </p>
@@ -19,7 +21,7 @@ I'm a Computer Science and Engineering student at International Islamic Universi
 **Right now**
 - Building an e-commerce UI with responsive, accessible design
 - Strengthening data structures and algorithms in C++
-- Learning Tailwind CSS and modern JavaScript patterns
+- Learning modern JavaScript patterns
 
 <p align="center">
   <img src="./terminal-card.svg" alt="Terminal-style profile card: role, education, languages, MERN stack, tools, current focus, projects and contact" width="100%">
@@ -30,8 +32,8 @@ I'm a Computer Science and Engineering student at International Islamic Universi
 **Core**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,html,css&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,html,css&theme=light" alt="React, Node.js, Express, MongoDB, JavaScript, Tailwind CSS, HTML, CSS" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,prisma,js,html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,prisma,js,html,css&theme=light" alt="React, Next.js, Node.js, Express, MongoDB, Prisma, JavaScript, HTML, CSS" />
 </picture>
 
 **Also familiar with**
