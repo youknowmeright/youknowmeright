@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Rakinul Alam</title>
+  <desc id="d">Junior Full-Stack Developer, MERN stack. CSE at IIUC, Chittagong, Bangladesh.</desc>
+  <defs>
+    <clipPath id="card"><rect x="0.5" y="0.5" width="899" height="239" rx="18"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0c18"/>
+      <stop offset="1" stop-color="#06070f"/>
+    </linearGradient>
+    <radialGradient id="glowPurple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.65"/>
+      <stop offset="0.55" stop-color="#5b3df0" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#5b3df0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.6"/>
+      <stop offset="0.55" stop-color="#2563eb" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="initials" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="0.5" y="0.5" width="899" height="239" rx="18" fill="url(#bg)" stroke="#1c2036"/>
+
+  <!-- bottom glow (the colour grade) -->
+  <g clip-path="url(#card)">
+    <ellipse cx="400" cy="250" rx="360" ry="95" fill="url(#glowPurple)"/>
+    <ellipse cx="640" cy="252" rx="300" ry="80" fill="url(#glowBlue)"/>
+  </g>
+
+  <!-- avatar -->
+  <circle cx="110" cy="104" r="54" fill="none" stroke="url(#ring)" stroke-width="4"/>
+  <circle cx="110" cy="104" r="48" fill="#11142a"/>
+  <text x="110" y="118" text-anchor="middle" font-size="38" font-weight="700" fill="url(#initials)">RA</text>
+
+  <!-- name + subtitle -->
+  <text x="190" y="88" font-size="44" font-weight="800" fill="#ffffff">Rakinul Alam</text>
+  <text x="190" y="120" font-size="16" fill="#8b93b8">Junior Full-Stack Developer · MERN stack</text>
+  <text x="190" y="144" font-size="14" fill="#6b7394">CSE @ IIUC (expected 2027) · Chittagong, Bangladesh</text>
+
+  <!-- stack pills -->
+  <g font-size="12.5" font-weight="600" fill="#a5b4fc" text-anchor="middle">
+    <rect x="190" y="162" width="62" height="28" rx="14" fill="#1b1840" stroke="#34307a"/>
+    <text x="221" y="180.5">React</text>
+
+    <rect x="262" y="162" width="76" height="28" rx="14" fill="#1b1840" stroke="#34307a"/>
+    <text x="300" y="180.5">Node.js</text>
+
+    <rect x="348" y="162" width="78" height="28" rx="14" fill="#1b1840" stroke="#34307a"/>
+    <text x="387" y="180.5">Express</text>
+
+    <rect x="436" y="162" width="88" height="28" rx="14" fill="#1b1840" stroke="#34307a"/>
+    <text x="480" y="180.5">MongoDB</text>
+
+    <rect x="534" y="162" width="104" height="28" rx="14" fill="#1b1840" stroke="#34307a"/>
+    <text x="586" y="180.5">Tailwind CSS</text>
+  </g>
+
+  <!-- open to work badge -->
+  <g>
+    <rect x="684" y="24" width="192" height="32" rx="16" fill="#0f1a1a" stroke="#14532d"/>
+    <circle cx="704" cy="40" r="5" fill="#34d399"/>
+    <text x="718" y="45" font-size="13" font-weight="600" fill="#6ee7b7">Open to internships</text>
+  </g>
+</svg>
