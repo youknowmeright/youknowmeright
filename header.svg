@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Rakinul Alam</title>
+  <desc id="d">Junior Full-Stack Developer, MERN stack. CSE at IIUC, Chittagong, Bangladesh.</desc>
+  <defs>
+    <clipPath id="card"><rect x="0.5" y="0.5" width="899" height="199" rx="12"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1017"/>
+      <stop offset="1" stop-color="#090b11"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3b5bdb" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3b5bdb" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="0.5" y="0.5" width="899" height="199" rx="12" fill="url(#bg)" stroke="#1f2430"/>
+
+  <!-- subtle colour grade, bottom right only -->
+  <g clip-path="url(#card)">
+    <ellipse cx="760" cy="215" rx="340" ry="80" fill="url(#glow)"/>
+  </g>
+
+  <!-- accent bar -->
+  <rect x="48" y="40" width="3" height="94" rx="1.5" fill="#6d7de8"/>
+
+  <!-- text -->
+  <text x="68" y="78" font-size="38" font-weight="700" fill="#f2f4f8" letter-spacing="-0.5">Rakinul Alam</text>
+  <text x="68" y="108" font-size="17" font-weight="500" fill="#aab3cf">Junior Full-Stack Developer</text>
+  <text x="68" y="131" font-size="13.5" fill="#6f7898">MERN stack  ·  CSE @ IIUC (expected 2027)  ·  Chittagong, Bangladesh</text>
+
+  <!-- stack tags -->
+  <g font-size="12" font-weight="500" fill="#a9b2d0" text-anchor="middle">
+    <rect x="48" y="150" width="58" height="26" rx="6" fill="#131722" stroke="#262c3d"/>
+    <text x="77" y="167">React</text>
+
+    <rect x="114" y="150" width="66" height="26" rx="6" fill="#131722" stroke="#262c3d"/>
+    <text x="147" y="167">Next.js</text>
+
+    <rect x="188" y="150" width="68" height="26" rx="6" fill="#131722" stroke="#262c3d"/>
+    <text x="222" y="167">Node.js</text>
+
+    <rect x="264" y="150" width="70" height="26" rx="6" fill="#131722" stroke="#262c3d"/>
+    <text x="299" y="167">Express</text>
+
+    <rect x="342" y="150" width="80" height="26" rx="6" fill="#131722" stroke="#262c3d"/>
+    <text x="382" y="167">MongoDB</text>
+
+    <rect x="430" y="150" width="66" height="26" rx="6" fill="#131722" stroke="#262c3d"/>
+    <text x="463" y="167">Prisma</text>
+  </g>
+</svg>
