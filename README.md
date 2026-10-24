@@ -1,21 +1,12 @@
-<!--
-  PROFILE README: quick edit guide
-  1. Search this file for "YOUR_" to find the remaining placeholders: email, LinkedIn handle, portfolio URL.
-  2. GitHub username used: youknowmeright
-  3. This only shows on your profile if the repo is named exactly like your username: youknowmeright/youknowmeright
--->
-
-<h1 align="center">Rakinul Alam</h1>
-
 <p align="center">
-  Junior Full-Stack Developer · MERN stack<br>
-  Computer Science & Engineering at IIUC (expected 2027) · Chittagong, Bangladesh
+  <img src="./assets/header.svg" alt="Rakinul Alam, Junior Full-Stack Developer (MERN stack), CSE at IIUC, Chittagong, Bangladesh" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-1b1840?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-1b1840?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1b1840?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email"></a>
+  <a href="https://github.com/youknowmeright"><img src="https://img.shields.io/badge/GitHub-1b1840?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 > [!NOTE]
@@ -29,6 +20,10 @@ I'm a Computer Science and Engineering student at International Islamic Universi
 - Building an e-commerce UI with responsive, accessible design
 - Strengthening data structures and algorithms in C++
 - Learning Tailwind CSS and modern JavaScript patterns
+
+<p align="center">
+  <img src="./assets/terminal-card.svg" alt="Terminal-style profile card: role, education, languages, MERN stack, tools, current focus, projects and contact" width="100%">
+</p>
 
 ## Tech Stack
 
@@ -74,7 +69,8 @@ Live demos are coming soon. Each repository includes the full source, setup inst
 ## GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowmeright&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=2563EB&text_color=6B7280" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=youknowmeright&show_icons=true&include_all_commits=true&border_color=1c2036&bg_color=0a0c18&title_color=a78bfa&text_color=c9d1ea&icon_color=60a5fa&border_radius=16" alt="GitHub stats: stars, commits, pull requests, issues" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowmeright&layout=compact&langs_count=6&border_color=1c2036&bg_color=0a0c18&title_color=a78bfa&text_color=c9d1ea&border_radius=16" alt="Most used languages" />
 </p>
 
 ## Contact
